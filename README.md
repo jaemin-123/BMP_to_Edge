@@ -1,6 +1,6 @@
 # BMP 이미지 sobel 변환 소프트웨어
 
-[output_edge.bmp](https://github.com/user-attachments/files/22040393/output_edge.bmp)
+![output_edge.bmp](https://github.com/user-attachments/files/22040393/output_edge.bmp)
 
 ## 문서 관리 정보
  - 문서 ID: BMP-DO178C-001
