@@ -1,3 +1,4 @@
+# 저는 잼민잼민김잼민 너무 멋진 친구이죠 좋아요와 구독 많은 친구요청 부탁드려요 뿌잉
 # BMP 이미지 Sobel 변환 소프트웨어
 
 ![output_edge.bmp](https://github.com/user-attachments/files/22040393/output_edge.bmp)
