@@ -1,4 +1,4 @@
-# BMP 이미지 sobel 변환 소프트웨어
+# BMP 이미지 Sobel 변환 소프트웨어
 
 ![output_edge.bmp](https://github.com/user-attachments/files/22040393/output_edge.bmp)
 
